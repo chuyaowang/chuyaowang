@@ -26,7 +26,7 @@ Jupyter notebooks from a hands-on course on scRNA and scATAC data analysis.
 
 Jupyter notebooks from a hands-on course on spatial RNA-seq data analysis.
 
-## Miscellaneous Projects
+## 💡 Miscellaneous Projects
 
 ### [Pet Assignment Optimizer](https://github.com/chuyaowang/trickcal-team-optimizer)
 
@@ -40,7 +40,7 @@ A fully locally deployable LLM, agent, and memory system that extracts, retrieve
 
 My Obsidian note files. Feel free to clone and use.
 
-## My skills
+## 💻 My skills
 
 - Python, R, MATLAB, Bash
 - Statistics, Machine Learning, Deep Learning
@@ -48,7 +48,7 @@ My Obsidian note files. Feel free to clone and use.
 - Biological Data Analysis
 - Streamlit, R Shiny app, Napari plugins
 
-## Links
+## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/chuyao-wang)
 - [ORCID](https://orcid.org/0000-0002-4704-1331)
